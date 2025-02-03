@@ -13,7 +13,8 @@ The Shockley-Queisser limit, a fundamental principle, states that a single-junct
 
 This is due to energy losses, such as photons carrying too much or too little energy to be effectively converted.
 
-However, scientists have found ways to push beyond this limit. Multijunction solar cells, which stack layers of different materials, can theoretically reach 86% efficiency under concentrated sunlight.
+However, scientists have found ways to push beyond this limit. Multijunction solar cells, which stack layers of different materials, can theoretically reach 86% efficiency
+under concentrated sunlight.
 
 These cells capture a broader spectrum of light, minimizing energy loss. In lab conditions, some experimental cells have already surpassed 47% efficiency.
 
@@ -25,10 +26,14 @@ ________________________________________________________________________________
 
 Part 2: Cost and Financial Feasibility (175 words)
 
-Reaching extreme efficiency comes at a cost. The high-efficiency multijunction solar cells used in satellites and military applications can cost over $100,000 per square meter—far from practical for home or commercial use.
+Reaching extreme efficiency comes at a cost. The high-efficiency multijunction solar cells used in satellites and military applications can cost over $100,000 per square meter—far
+from practical for home or commercial use.
+
 Even laboratory-tested 47% efficient cells are too expensive for widespread deployment.
 
-In contrast, standard silicon panels cost between $150 to $400 per panel and provide an efficiency of 15-22%, making them the most viable option for homes and businesses. Balancing efficiency and cost is crucial;
+In contrast, standard silicon panels cost between $150 to $400 per panel and provide an efficiency of 15-22%, making them the most viable option for homes and businesses.
+
+Balancing efficiency and cost is crucial;
 increasing efficiency slightly can lead to exponential cost increases due to material complexity and manufacturing challenges.
 
 However, government incentives and technological advancements are continuously lowering costs. Some emerging technologies, like perovskite solar cells, offer a promising middle ground,
