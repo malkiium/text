@@ -16,7 +16,6 @@ def exosAB():
 def exosPolinome2nd():
     #the exercise zone
     exosPol1 = str("""
-                 -x² + 2x + 1 < 0
-                 - """)
-
+                -x² + 2x + 1 < 0
+                - """)
 
