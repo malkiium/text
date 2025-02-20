@@ -1,8 +1,7 @@
 def exosAB():
     #the exercise zone
     exosAB1 = str("""
-                2x+3 >= 5x+3 =
-                2x+3 >= 5x+3 =
+                2x+3 >= 5x+3 = # -5x sur les deux cotés
                 -3x+3 >= 3
                 -3x >= 0
                 -x >= 0
@@ -11,7 +10,8 @@ def exosAB():
                 3 >= 3x+3
                 0 >= 3x
                 0 >= x
-                x ∈ ]-inf; 0] """)
+                x ∈ ]-inf; 0] 
+                """)
 
 def exosPolinome2nd():
     #the exercise zone
