@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/storyTelling.md",
+                "file": "English/Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "storyTelling"
+              "title": "Presentation"
             }
           }
         ]
@@ -183,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60b23d90ef0a00f7",
+  "active": "673c4fedccf55a7f",
   "lastOpenFiles": [
-    "English/solar_panels.md",
+    "Maths",
     "English/Presentation.md",
+    "English/solar_panels.md",
+    "English/storyTelling.md",
     "2025-03-10.md",
     "English/solar_panels.txt",
     "English",
