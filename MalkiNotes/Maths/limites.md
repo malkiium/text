@@ -6,6 +6,9 @@ Une suite \( (u_n) \) admet une limite \( l \) lorsque :
 \[
 \forall \varepsilon > 0, \exists N \in \mathbb{N}, \forall n \geq N, |u_n - l| < \varepsilon.
 \]
+in other words:
+For all epsilon greater than 0, there exists an N in the natural numbers, such that for all n greater than or equal to N, the absolute value of \( u_n - l \) is less than epsilon.
+
 Notation : \( \lim\limits_{n \to +\infty} u_n = l \).
 
 ## Définition de la Limite d'une Fonction
@@ -70,4 +73,4 @@ Certaines limites nécessitent des transformations (factorisation, conjugaison, 
 
 ## Conclusion
 
-Les limites sont essentielles en analyse et en algèbre. Elles permettent de comprendre les comportements asymptotiques des suites et des fonctions, ce qui est fondamental pour la continuité, la dérivation et l'intégration.
+Les limites sont essentielles en analyse et en algèbre. Elles permettent de comprendre les comportements asymptotiques des suites et des fonctions, ce qui est fondamental pour la continuité, la dérivation et l'intégration*.*
