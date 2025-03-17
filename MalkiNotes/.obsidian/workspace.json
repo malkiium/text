@@ -11,14 +11,17 @@
             "id": "a5f84f0c59200384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "English/storyTelling.md",
-                "mode": "source",
-                "source": false
+                "file": "English/general classes.canvas",
+                "viewState": {
+                  "x": -1230.8500000000006,
+                  "y": -590.0099999999991,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "storyTelling"
+              "icon": "lucide-layout-dashboard",
+              "title": "general classes"
             }
           }
         ]
@@ -167,12 +170,17 @@
   },
   "active": "a5f84f0c59200384",
   "lastOpenFiles": [
-    "htmlclasses/classes.md",
+    "Maths/map.canvas",
     "Maths/limites.md",
-    "English/Presentation.md",
-    "Maths",
+    "htmlclasses/classes.canvas",
+    "English/general classes.canvas",
+    "Untitled",
+    "Untitled.md",
+    "htmlclasses/classes.md",
     "English/solar_panels.md",
     "English/storyTelling.md",
+    "English/Presentation.md",
+    "Maths",
     "2025-03-10.md",
     "English/solar_panels.txt",
     "English",
