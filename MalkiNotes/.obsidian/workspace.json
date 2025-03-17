@@ -15,8 +15,8 @@
               "state": {
                 "file": "English/general classes.canvas",
                 "viewState": {
-                  "x": -1230.8500000000006,
-                  "y": -590.0099999999991,
+                  "x": -1526.1599999999994,
+                  "y": -610,
                   "zoom": 0
                 }
               },
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215.5
   },
   "right": {
     "id": "d6bdd7fa0bb9d789",
@@ -170,10 +170,11 @@
   },
   "active": "a5f84f0c59200384",
   "lastOpenFiles": [
+    "English/Presentation instructions.pdf",
+    "English/general classes.canvas",
     "Maths/map.canvas",
     "Maths/limites.md",
     "htmlclasses/classes.canvas",
-    "English/general classes.canvas",
     "Untitled",
     "Untitled.md",
     "htmlclasses/classes.md",
