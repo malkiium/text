@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a386ea4013e1b38",
-        "type": "tabs",
-        "dimension": 64.34010152284264,
-        "children": [
-          {
-            "id": "60b23d90ef0a00f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Presentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Presentation"
-            }
-          }
-        ]
-      },
-      {
         "id": "c48a6aca0ed81163",
         "type": "tabs",
-        "dimension": 35.659898477157356,
         "children": [
           {
             "id": "a5f84f0c59200384",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "English/storyTelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "storyTelling"
             }
           }
         ]
@@ -183,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "673c4fedccf55a7f",
+  "active": "a5f84f0c59200384",
   "lastOpenFiles": [
-    "Maths",
+    "htmlclasses/classes.md",
+    "Maths/limites.md",
     "English/Presentation.md",
+    "Maths",
     "English/solar_panels.md",
     "English/storyTelling.md",
     "2025-03-10.md",
