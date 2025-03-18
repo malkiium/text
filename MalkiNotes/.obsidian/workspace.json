@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "English/general classes.canvas",
+                "file": "python/classes.canvas",
                 "viewState": {
-                  "x": -1535.5,
-                  "y": -610,
-                  "zoom": 0
+                  "x": 206,
+                  "y": 120,
+                  "zoom": -0.08059392576055256
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "general classes"
+              "title": "classes"
             }
           }
         ]
@@ -170,12 +170,13 @@
   },
   "active": "a5f84f0c59200384",
   "lastOpenFiles": [
-    "Maths/map.canvas",
     "English/general classes.canvas",
     "English/Presentation instructions.pdf",
+    "Maths/map.canvas",
+    "python/classes.canvas",
+    "python",
     "htmlclasses/classes.canvas",
     "Maths/limites.md",
-    "Untitled",
     "Untitled.md",
     "htmlclasses/classes.md",
     "English/solar_panels.md",
