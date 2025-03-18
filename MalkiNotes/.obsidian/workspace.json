@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c48a6aca0ed81163",
+        "id": "972bdbf61ce5c029",
         "type": "tabs",
         "children": [
           {
-            "id": "a5f84f0c59200384",
+            "id": "461b208db6ef826c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "python/classes.canvas",
+                "file": "map/map.canvas",
                 "viewState": {
-                  "x": 206,
-                  "y": 120,
-                  "zoom": -0.08059392576055256
+                  "x": -610,
+                  "y": -150,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "classes"
+              "title": "map"
             }
           }
         ]
@@ -168,14 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5f84f0c59200384",
+  "active": "461b208db6ef826c",
   "lastOpenFiles": [
+    "python/python clas.canvas",
+    "map/map.canvas",
     "English/general classes.canvas",
+    "htmlclasses/html classes.canvas",
+    "Maths/meth.canvas",
+    "map",
+    "Untitled.canvas",
+    "Untitled mindmap.md",
+    "Paste image 1742335686179image.png",
     "English/Presentation instructions.pdf",
-    "Maths/map.canvas",
-    "python/classes.canvas",
     "python",
-    "htmlclasses/classes.canvas",
     "Maths/limites.md",
     "Untitled.md",
     "htmlclasses/classes.md",
