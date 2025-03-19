@@ -1,4 +1,4 @@
-[[relation binaire]]
+[[relation binaire]] [[produit cartésien]]
 
 #relationsbinaires #mathématiques #relationdéquivalence #relationdordre #réflexivité #symétrie #transitivité #grapheorienté #matricedadjacence
 
@@ -144,5 +144,3 @@ Les éléments de la relation sont :
 $R={(1,1),(2,2),(3,3)}.R = \{(1,1), (2,2), (3,3)\}.R={(1,1),(2,2),(3,3)}$.
 
 Cette relation est réflexive, symétrique et antisymétrique, comme expliqué ci-dessus.
-
-

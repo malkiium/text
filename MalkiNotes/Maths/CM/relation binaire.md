@@ -1,3 +1,4 @@
+[[Relation binaires TD]] [[produit cartésien]]
 #relations-binaires #propriétés #relation-ordre #relation-équivalence #mathématiques #informatique
 # Relations Binaires : L'essentiel
 

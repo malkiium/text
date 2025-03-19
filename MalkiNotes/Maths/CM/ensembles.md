@@ -1,3 +1,4 @@
+[[produit cartésien]] [[Relation binaires TD]] [[relation binaire]]
 #ensemble #partie #partition #mathématiques #produit-cartésien
 
 $E = {a,b,c}$
