@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ed7a77eac860257c",
+        "id": "567944a313dbcb6d",
         "type": "tabs",
         "children": [
           {
-            "id": "0f1de0a0b74e47b3",
+            "id": "a84f47b6660e58a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailynotes/2025-03-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-19"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -89,64 +85,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fda90e58ad6a9648",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "5fcda2e6e3776003",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "839d7d6c65dfbaeb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "0d8c1c77914b03bc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Presentation instructions.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Presentation instructions"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "132286e3675296cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -162,19 +121,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "132286e3675296cf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,34 +143,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "673c4fedccf55a7f",
+  "active": "132286e3675296cf",
   "lastOpenFiles": [
     "dailynotes/2025-03-19.md",
-    "python/Lists and Matrix.md",
+    "classes/htmlclasses/project.md",
+    "lifeKnowledge",
+    "classes",
+    "classes/Maths/TD/Relation binaires TD.md",
+    "classes/python/Lists and Matrix.md",
     "python.md",
     "dailynotes",
-    "English/Presentation instructions.pdf",
-    "English/final presetation.md",
-    "python/lists vs tuples.md",
-    "python/Tuples.md",
-    "Maths/TD/Relation binaires TD.md",
-    "Maths/CM/relation binaire.md",
-    "htmlclasses/project.md",
-    "htmlclasses/resources.md",
-    "English/solar panels.md",
-    "English/story telling.md",
-    "Maths/TD/limites.md",
-    "Maths/CM/Suites géométrique.md",
-    "English/movies series intro.md",
+    "classes/English/Presentation instructions.pdf",
+    "classes/English/final presetation.md",
+    "classes/python/lists vs tuples.md",
+    "classes/python/Tuples.md",
+    "classes/Maths/CM/relation binaire.md",
+    "classes/htmlclasses/resources.md",
+    "classes/English/solar panels.md",
+    "classes/English/story telling.md",
+    "classes/Maths/TD/limites.md",
+    "classes/Maths/CM/Suites géométrique.md",
+    "classes/English/movies series intro.md",
     "Untitled.canvas",
-    "python/dictionaries.md",
-    "Maths/CM/ensembles.md",
-    "Maths/CM/produit cartésien.md",
+    "classes/python/dictionaries.md",
+    "classes/Maths/CM/ensembles.md",
+    "classes/Maths/CM/produit cartésien.md",
     "Théorie des ensembles.md",
     "Maths/Untitled.canvas",
     "Untitled.md",
-    "python/Sets.md",
-    "English/presensations.md",
+    "classes/python/Sets.md",
+    "classes/English/presensations.md",
     "Processing",
     "English/general classes.canvas",
     "presentations.md",
@@ -229,16 +180,13 @@
     "htmlclasses/html classes.canvas",
     "python/python clas.canvas",
     "Maths/meth.canvas",
-    "Maths/TD",
+    "classes/Maths/TD",
     "Maths/CM/partition d'un ensemble.md",
-    "Maths/CM",
-    "suites géométriques.md",
+    "classes/Maths/CM",
     "map/map.canvas",
     "map",
     "Paste image 1742335686179image.png",
-    "python",
-    "Maths",
-    "English/solar_panels.txt",
-    "English"
+    "classes/python",
+    "classes/Maths"
   ]
 }
