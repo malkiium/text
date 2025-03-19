@@ -1,0 +1,23 @@
+### Movie / Series Intro
+
+- AOT
+- The Mask
+- Death Note
+- The Walking Dead
+- Seven
+- Breaking Bad
+- Gran Turismo
+- La Tour Montparnasse
+- Ted Lasso
+- The usual Suspects
+- The Wire
+- How to train your dragon
+- Rush
+- Spirited away
+- Sonic
+- Les Tuches
+- Bullet Train
+- The Martians
+- Sweet
+- Interstellar
+- The Prestige

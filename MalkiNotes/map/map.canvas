@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"c22d67c31a2eca53","type":"file","file":"Maths/meth.canvas","x":-1040,"y":-580,"width":400,"height":400,"color":"1"},
-		{"id":"51ab8f24b31a795e","type":"file","file":"English/general classes.canvas","x":-1040,"y":-120,"width":400,"height":400,"color":"5"},
-		{"id":"25af0e2b971a0504","type":"file","file":"python/python clas.canvas","x":-580,"y":-580,"width":400,"height":400,"color":"4"},
-		{"id":"9ec7095160cfa83a","type":"file","file":"htmlclasses/html classes.canvas","x":-580,"y":-120,"width":400,"height":400,"color":"2"}
-	],
-	"edges":[]
-}

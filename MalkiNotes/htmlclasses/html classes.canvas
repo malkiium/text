@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"26f1bf09003774de","type":"file","file":"map/map.canvas","x":-920,"y":-520,"width":160,"height":160},
-		{"id":"e0abdd8ead5d0145","type":"text","text":"# Project\n\n## ideas\n- blog page\n- social network\n- biography page\n# needs\n##### blog page :\n- CSS (a lot)\n##### social network :\n- data base inclusion\n- 24/7 uptime (doable)\n##### biography page :\n- self reflection\n- ideas for content","x":-720,"y":-520,"width":400,"height":420,"color":"1"},
-		{"id":"4cfcd8a8d8d87389","x":-280,"y":-520,"width":540,"height":200,"color":"4","type":"text","text":"# resources\n\nuniversité :\nhttps://litis.univ-lehavre.fr/~fournier/InfoDoc/coursDocs.php?page=0\nyoutube : \nhttps://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel=SuperSimpleDev\n\n\n"}
-	],
-	"edges":[]
-}

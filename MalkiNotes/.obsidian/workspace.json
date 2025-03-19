@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20ccbf9d3192f494",
+        "id": "c5fcd24bec6bc583",
         "type": "tabs",
         "children": [
           {
-            "id": "cc824585818580ba",
+            "id": "1137c7652ef2b130",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "python/python clas.canvas",
-                "viewState": {
-                  "x": -519.1539172766587,
-                  "y": -135.78169995517246,
-                  "zoom": 0.7300000000000001
-                }
+                "file": "Maths/CM/ensembles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "python clas"
+              "icon": "lucide-file",
+              "title": "ensembles"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "d6bdd7fa0bb9d789",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python clas.canvas",
+                "file": "Maths/CM/ensembles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for python clas"
+              "title": "Backlinks for ensembles"
             }
           },
           {
@@ -168,32 +164,52 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cc824585818580ba",
+  "active": "1137c7652ef2b130",
   "lastOpenFiles": [
-    "htmlclasses/html classes.canvas",
-    "map/map.canvas",
-    "Maths/meth.canvas",
-    "Untitled.md",
+    "Maths/CM/relation d'un produit binaire.md",
+    "Maths/CM/Suites géométrique.md",
+    "English/solar panels.md",
+    "English/story telling.md",
+    "htmlclasses/project.md",
+    "English/Presentation instructions.pdf",
     "English/general classes.canvas",
+    "presentations.md",
+    "story telling] [presentations.md",
+    "English/presensations.md",
+    "English/movies series intro.md",
+    "English/final presetation.md",
+    "htmlclasses/resources.md",
+    "python/tuples.md",
+    "htmlclasses/html classes.canvas",
+    "python/sets.md",
     "python/python clas.canvas",
+    "python/lists vs tuples.md",
+    "python/lists.md",
+    "python/dictionaries.md",
+    "Maths/CM/ensembles.md",
+    "Maths/meth.canvas",
+    "Maths/TD",
+    "Maths/TD/limites.md",
+    "Maths/CM/partition d'un ensemble.md",
+    "Maths/CM/produit cartésien.md",
+    "Maths/CM",
+    "suites géométriques.md",
+    "map/map.canvas",
+    "hello.md",
     "map",
     "Untitled.canvas",
     "Untitled mindmap.md",
     "Paste image 1742335686179image.png",
-    "English/Presentation instructions.pdf",
     "python",
     "Maths/limites.md",
     "htmlclasses/classes.md",
-    "English/solar_panels.md",
-    "English/storyTelling.md",
-    "English/Presentation.md",
     "Maths",
-    "2025-03-10.md",
     "English/solar_panels.txt",
-    "English",
-    "Welcome.md"
+    "English"
   ]
 }
