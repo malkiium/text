@@ -88,4 +88,4 @@ Certaines limites nécessitent des transformations (factorisation, conjugaison, 
 
 ## Conclusion
 
-Les limites sont essentielles en analyse et en algèbre. Elles permettent de comprendre les comportements asymptotiques des suites et des fonctions, ce qui est fondamental pour la continuité, la dérivation et l'intégration
+Les limites sont essentielles en analyse et en algèbre. Elles permettent de comprendre les comportements asymptotiques des suites et des fonctions, ce qui est fondamental pour la continuité, la dérivation et l'intégration.
