@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "972bdbf61ce5c029",
+        "id": "20ccbf9d3192f494",
         "type": "tabs",
         "children": [
           {
-            "id": "461b208db6ef826c",
+            "id": "cc824585818580ba",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "python/python clas.canvas",
                 "viewState": {
-                  "x": -531.5781016442442,
-                  "y": -160.76421523339144,
-                  "zoom": 0.7933333333333332
+                  "x": -519.1539172766587,
+                  "y": -135.78169995517246,
+                  "zoom": 0.7300000000000001
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 215.5,
+    "collapsed": true
   },
   "right": {
     "id": "d6bdd7fa0bb9d789",
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python/python clas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for python clas"
             }
           },
           {
@@ -151,7 +153,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "461b208db6ef826c",
+  "active": "cc824585818580ba",
   "lastOpenFiles": [
+    "htmlclasses/html classes.canvas",
     "map/map.canvas",
     "Maths/meth.canvas",
-    "python/python clas.canvas",
+    "Untitled.md",
     "English/general classes.canvas",
-    "htmlclasses/html classes.canvas",
+    "python/python clas.canvas",
     "map",
     "Untitled.canvas",
     "Untitled mindmap.md",
@@ -182,7 +186,6 @@
     "English/Presentation instructions.pdf",
     "python",
     "Maths/limites.md",
-    "Untitled.md",
     "htmlclasses/classes.md",
     "English/solar_panels.md",
     "English/storyTelling.md",
