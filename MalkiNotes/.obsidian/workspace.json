@@ -11,14 +11,10 @@
             "id": "62c86f6d18fd58ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/dictionaries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dictionaries"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dictionaries"
+              "title": "Backlinks"
             }
           },
           {
@@ -187,6 +182,8 @@
   },
   "active": "62c86f6d18fd58ea",
   "lastOpenFiles": [
+    "Maths/TD/limites.md",
+    "python/dictionaries.md",
     "Maths/CM/ensembles.md",
     "python/lists vs tuples.md",
     "python/tuples.md",
@@ -209,10 +206,8 @@
     "python/sets.md",
     "python/python clas.canvas",
     "python/lists.md",
-    "python/dictionaries.md",
     "Maths/meth.canvas",
     "Maths/TD",
-    "Maths/TD/limites.md",
     "Maths/CM/partition d'un ensemble.md",
     "Maths/CM",
     "suites géométriques.md",

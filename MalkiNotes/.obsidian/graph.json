@@ -34,13 +34,6 @@
         "a": 1,
         "rgb": 65280
       }
-    },
-    {
-      "query": "path:Processing  ",
-      "color": {
-        "a": 1,
-        "rgb": 11403774
-      }
     }
   ],
   "collapse-display": true,
