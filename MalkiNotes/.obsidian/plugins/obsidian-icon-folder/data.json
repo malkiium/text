@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmPlus",
       "LiTally1",
       "LiAlertCircle",
       "LiAccessibility",
-      "LiAlbum",
-      "LiProjector"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,6 @@
   "python/Lists and Matrix.md": "LiAlignCenter",
   "python/Sets.md": "LiAlignCenterVertical",
   "python/Tuples.md": "LiAlbum",
-  "Maths/TD/Relation binaires TD.md": "LiTally1"
+  "Maths/TD/Relation binaires TD.md": "LiTally1",
+  "dailynotes": "LiAlarmPlus"
 }

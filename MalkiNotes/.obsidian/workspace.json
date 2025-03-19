@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba1b625bd60f899",
+        "id": "ed7a77eac860257c",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8c2fa4ddb52a1f",
+            "id": "0f1de0a0b74e47b3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "MalkiNotes/Maths/TD/limites.md",
-                "bFile": "MalkiNotes/Maths/TD/limites.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "dailynotes/2025-03-19.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: limites"
+              "icon": "lucide-file",
+              "title": "2025-03-19"
             }
           }
         ]
@@ -79,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 281.5
   },
   "right": {
     "id": "d6bdd7fa0bb9d789",
@@ -141,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "English/Presentation instructions.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Presentation instructions"
             }
           },
           {
@@ -194,32 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a8c2fa4ddb52a1f",
+  "active": "673c4fedccf55a7f",
   "lastOpenFiles": [
-    "Maths/TD/limites.md",
+    "dailynotes/2025-03-19.md",
+    "python/Lists and Matrix.md",
+    "python.md",
+    "dailynotes",
+    "English/Presentation instructions.pdf",
+    "English/final presetation.md",
+    "python/lists vs tuples.md",
+    "python/Tuples.md",
     "Maths/TD/Relation binaires TD.md",
+    "Maths/CM/relation binaire.md",
+    "htmlclasses/project.md",
+    "htmlclasses/resources.md",
+    "English/solar panels.md",
+    "English/story telling.md",
+    "Maths/TD/limites.md",
     "Maths/CM/Suites géométrique.md",
     "English/movies series intro.md",
-    "htmlclasses/project.md",
     "Untitled.canvas",
     "python/dictionaries.md",
-    "Maths/CM/relation binaire.md",
     "Maths/CM/ensembles.md",
     "Maths/CM/produit cartésien.md",
-    "python/Lists and Matrix.md",
-    "English/story telling.md",
-    "English/solar panels.md",
     "Théorie des ensembles.md",
     "Maths/Untitled.canvas",
     "Untitled.md",
-    "English/Presentation instructions.pdf",
-    "English/final presetation.md",
-    "python/Tuples.md",
     "python/Sets.md",
-    "python/lists vs tuples.md",
     "English/presensations.md",
     "Processing",
-    "htmlclasses/resources.md",
     "English/general classes.canvas",
     "presentations.md",
     "story telling] [presentations.md",
@@ -231,7 +234,6 @@
     "Maths/CM",
     "suites géométriques.md",
     "map/map.canvas",
-    "hello.md",
     "map",
     "Paste image 1742335686179image.png",
     "python",

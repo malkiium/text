@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 16672726
       }
+    },
+    {
+      "query": "path:dailynotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 1.97916666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.3108621100003648,
+  "scale": 1.8378062595632059,
   "close": true
 }
