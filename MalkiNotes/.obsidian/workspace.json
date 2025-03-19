@@ -11,10 +11,14 @@
             "id": "9a8c2fa4ddb52a1f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Maths/TD/limites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "limites"
             }
           }
         ]
@@ -50,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Maths/TD/limites.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of limites"
             }
           },
           {
@@ -192,12 +197,12 @@
   "active": "9a8c2fa4ddb52a1f",
   "lastOpenFiles": [
     "Maths/TD/Relation binaires TD.md",
+    "Maths/CM/Suites géométrique.md",
     "English/movies series intro.md",
     "htmlclasses/project.md",
     "Untitled.canvas",
     "python/dictionaries.md",
     "Maths/TD/limites.md",
-    "Maths/CM/Suites géométrique.md",
     "Maths/CM/relation binaire.md",
     "Maths/CM/ensembles.md",
     "Maths/CM/produit cartésien.md",

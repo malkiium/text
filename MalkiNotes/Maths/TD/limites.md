@@ -12,11 +12,8 @@ Notation : $$ \lim\limits_{n \to +\infty} u_n = l $$.
 
 ## Définition de la Limite d'une Fonction
 
-Une fonction  f admet une limite  l  en  a  si :
-$$
-\forall \varepsilon > 0, \exists \delta > 0, \forall x \in D_f, 0 < |x-a| < \delta \Rightarrow |f(x) - l| < \varepsilon.
-$$
-Notation :  $$\lim\limits_{x \to a} f(x) = l $$.
+Une fonction  f admet une limite  l  en  a  si :       $\forall \varepsilon > 0, \exists \delta > 0, \forall x \in D_f, 0 < |x-a| < \delta \Rightarrow |f(x) - l| < \varepsilon.$
+Notation :     $\lim\limits_{x \to a} f(x) = l$.
 ## Limites Usuelles
 
 ### Limites de Suites
