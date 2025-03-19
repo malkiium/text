@@ -44,10 +44,7 @@
   "Maths/CM/produit cartésien.md": "LiAlignCenterVertical",
   "Maths/CM": "LiAirplay",
   "Maths/TD/limites.md": "LiStopCircle",
-  "python/lists.md": "LiAlignCenter",
-  "python/sets.md": "LiAlignCenterVertical",
   "python/dictionaries.md": "LiAlignEndHorizontal",
-  "python/tuples.md": "LiAlbum",
   "python/lists vs tuples.md": "LiAlignHorizontalDistributeCenter",
   "English/movies series intro.md": "🎥",
   "English/solar panels.md": "LiPanelBottomInactive",
@@ -55,5 +52,8 @@
   "English/presensations.md": "LiProjector",
   "htmlclasses/project.md": "LiAlbum",
   "htmlclasses/resources.md": "LiAccessibility",
-  "Maths/CM/relation binaire.md": "LiAlignCenter"
+  "Maths/CM/relation binaire.md": "LiAlignCenter",
+  "python/Lists and Matrix.md": "LiAlignCenter",
+  "python/Sets.md": "LiAlignCenterVertical",
+  "python/Tuples.md": "LiAlbum"
 }

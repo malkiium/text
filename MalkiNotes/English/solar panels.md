@@ -1,4 +1,5 @@
 [[story telling]] [[presensations]]
+#SolarEnergy #EnergyEfficiency #RenewableEnergy #SolarTechnology #SolarPower #CostEffectiveness #Sustainability
 
 Introduction:
 I've always enjoyed toying with gadgets and testing their limits. So, I wondered: what's the limit of efficiency a solar panel can achieve?

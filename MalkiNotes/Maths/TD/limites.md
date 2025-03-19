@@ -1,5 +1,4 @@
-
-# Limites en Algèbre de Base (MPSI - Informatique)
+#Limites #AlgèbreDeBase #MPSI #Informatique #LimiteSuite #LimiteFonction #PropriétésDesLimites #OpérationsLimites #TechniquesCalculLimites #FormesIndéterminées #LHopital #Gendarmes #Croissance #ExemplesMathématiques #Analyse #CalculLimites
 
 ## Définition de la Limite d'une Suite
 

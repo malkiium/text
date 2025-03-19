@@ -1,6 +1,6 @@
 [[lists vs tuples]]
 
-# Working with Tuples in Python
+#TuplesVsLists #TuplesInPython #ListsInPython #ImmutableVsMutable #TupleProperties #PythonDataTypes #TupleConcatenation #PythonExamples #TupleAssignment #ModifyingTuples #TupleWorkaround #TupleModification #PythonCollections #TupleVsList
 
 ## Creating an Empty Tuple
 
