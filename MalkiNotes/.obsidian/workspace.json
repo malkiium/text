@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc2034a27a688dc",
+        "id": "60780882366d026e",
         "type": "tabs",
         "children": [
           {
-            "id": "9e74adb209611dd0",
+            "id": "78776ffd1cbf076f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -90,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "dailynotes/religion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of religion"
             }
           },
           {
@@ -173,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e74adb209611dd0",
+  "active": "673c4fedccf55a7f",
   "lastOpenFiles": [
+    "Templates/Fleeting Note Template.md",
+    "dailynotes/religion.md",
+    "Templates",
     "classes/Maths/TD/Relation binaires TD.md",
     "dailynotes/2025-03-19.md",
     "lifeKnowledge/Warframe/Stalker lore.md",
@@ -222,7 +227,6 @@
     "classes/Maths/CM/Suites géométrique.md",
     "classes/English/movies series intro.md",
     "Untitled.canvas",
-    "classes/python/dictionaries.md",
     "Maths/Untitled.canvas",
     "Processing",
     "English/general classes.canvas",
@@ -232,7 +236,6 @@
     "classes/Maths/TD",
     "classes/Maths/CM",
     "map/map.canvas",
-    "map",
     "Paste image 1742335686179image.png"
   ]
 }
