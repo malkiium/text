@@ -39,7 +39,7 @@ Une relation $R$ est **antisymétrique** si : $∀x,y∈E,(x,y)∈R \text{ et } 
 
 ### 4. Transitivité
  
-Une relation $R$ est **transitive** si : $∀x,y,z∈E,(x,y)∈R \text{ et } (y,z)∈R⇒(x,z)∈R$
+Une relation $R$ est **transitive** si : $∀x,y,z∈E,(x,y)∈R  \text{  et  }  (y,z)∈R⇒(x,z)∈R$
 
 **Explication** : Une relation est transitive si, chaque fois que $x$ est en relation avec $y$ et que $y$ est en relation avec $z$, alors $x$ est aussi en relation avec $z$. Par exemple, dans la relation "être inférieur ou égal à", si $x \leq y$ et $y \leq z$, alors $x \leq z$.
 
@@ -133,9 +133,6 @@ Cela signifie que $x$ est en relation avec $y$ si et seulement si $x$ est égal 
     
 
 Ainsi, la relation **d'égalité** est **réflexive**, **symétrique**, et **antisymétrique**.
-
----
-
 ### Exemple formel :
 
 Soit l'ensemble $E = {1, 2, 3}$ et la relation $R$ définie par $xRy \iff x = y$.  

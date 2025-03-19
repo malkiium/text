@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "299d65cabf006620",
+        "id": "9bc2034a27a688dc",
         "type": "tabs",
         "children": [
           {
-            "id": "ac4a7dd807005bb3",
+            "id": "9e74adb209611dd0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -136,13 +136,45 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "87679e0331169512",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9d1c8bd43f87bbf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132286e3675296cf",
+  "active": "9e74adb209611dd0",
   "lastOpenFiles": [
+    "classes/Maths/TD/Relation binaires TD.md",
+    "dailynotes/2025-03-19.md",
     "lifeKnowledge/Warframe/Stalker lore.md",
     "lifeKnowledge/Minecraft",
     "lifeKnowledge/Warframe/Tenno lore.md",
@@ -171,14 +205,12 @@
     "lifeKnowledge/Warframe/Orokin lore.md",
     "lifeKnowledge/Warframe",
     "lifeKnowledge/Minecraft/Mining Minecraft.md",
-    "dailynotes/2025-03-19.md",
     "classes/English/final presetation.md",
     "classes/python/lists vs tuples.md",
     "classes/python/Lists and Matrix.md",
     "classes/htmlclasses/project.md",
     "lifeKnowledge",
     "classes",
-    "classes/Maths/TD/Relation binaires TD.md",
     "python.md",
     "dailynotes",
     "classes/English/Presentation instructions.pdf",

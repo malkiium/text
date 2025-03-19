@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
       "LiEraser",
       "LiTableRowsSplit",
       "LiArrowDownRightFromCircle",
@@ -81,5 +82,6 @@
   "lifeKnowledge/Warframe/Warframe lore.md": "LiArrowDownRightFromCircle",
   "lifeKnowledge/Minecraft/Mining Minecraft.md": "LiBlocks",
   "lifeKnowledge/Minecraft": "LiTableRowsSplit",
-  "lifeKnowledge/Warframe": "LiEraser"
+  "lifeKnowledge/Warframe": "LiEraser",
+  "classes/Maths/TD": "LiAlbum"
 }
