@@ -157,14 +157,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "132286e3675296cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,23 +185,25 @@
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "media-extended:Open media": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9a8c2fa4ddb52a1f",
   "lastOpenFiles": [
+    "Maths/TD/Relation binaires TD.md",
+    "English/movies series intro.md",
+    "htmlclasses/project.md",
     "Untitled.canvas",
     "python/dictionaries.md",
     "Maths/TD/limites.md",
     "Maths/CM/Suites géométrique.md",
-    "Maths/TD/Relation binaires TD.md",
     "Maths/CM/relation binaire.md",
     "Maths/CM/ensembles.md",
     "Maths/CM/produit cartésien.md",
     "python/Lists and Matrix.md",
     "English/story telling.md",
     "English/solar panels.md",
-    "English/movies series intro.md",
     "Théorie des ensembles.md",
     "Maths/Untitled.canvas",
     "Untitled.md",
@@ -201,7 +212,6 @@
     "python/Tuples.md",
     "python/Sets.md",
     "python/lists vs tuples.md",
-    "htmlclasses/project.md",
     "English/presensations.md",
     "Processing",
     "htmlclasses/resources.md",
