@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "map/map.canvas",
+                "file": "python/python clas.canvas",
                 "viewState": {
-                  "x": -610,
-                  "y": -150,
-                  "zoom": 0
+                  "x": -531.5781016442442,
+                  "y": -160.76421523339144,
+                  "zoom": 0.7933333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "map"
+              "title": "python clas"
             }
           }
         ]
@@ -170,11 +170,11 @@
   },
   "active": "461b208db6ef826c",
   "lastOpenFiles": [
-    "python/python clas.canvas",
     "map/map.canvas",
+    "Maths/meth.canvas",
+    "python/python clas.canvas",
     "English/general classes.canvas",
     "htmlclasses/html classes.canvas",
-    "Maths/meth.canvas",
     "map",
     "Untitled.canvas",
     "Untitled mindmap.md",
