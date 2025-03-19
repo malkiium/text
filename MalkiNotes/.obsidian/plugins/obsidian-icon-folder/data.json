@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlertCircle",
       "LiAccessibility",
       "LiAlbum",
       "LiProjector",
-      "LiBook",
-      "LiPanelBottomInactive"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,7 +42,6 @@
   "Maths/CM/Suites géométrique.md": "LiSquareSplitVertical",
   "Maths/CM/ensembles.md": "LiArchive",
   "Maths/CM/produit cartésien.md": "LiAlignCenterVertical",
-  "Maths/CM/relation d'un produit binaire.md": "LiAlignCenter",
   "Maths/CM": "LiAirplay",
   "Maths/TD/limites.md": "LiStopCircle",
   "python/lists.md": "LiAlignCenter",
@@ -55,5 +54,7 @@
   "English/story telling.md": "LiBook",
   "English/presensations.md": "LiProjector",
   "htmlclasses/project.md": "LiAlbum",
-  "htmlclasses/resources.md": "LiAccessibility"
+  "htmlclasses/resources.md": "LiAccessibility",
+  "Maths/CM/relation binaire.md": "LiAlignCenter",
+  "Processing": "LiAlertCircle"
 }

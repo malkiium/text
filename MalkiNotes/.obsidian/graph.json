@@ -3,9 +3,9 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:English  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "path:Processing  ",
+      "color": {
+        "a": 1,
+        "rgb": 11403774
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 1.97916666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.5021508344954362,
+  "scale": 1.3256190559950032,
   "close": true
 }

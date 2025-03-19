@@ -1,5 +1,4 @@
-## Produit cartésien
-
+#produit-cartésien #mathématiques #ensemble #fonction #informatique
 Le produit cartésien de deux ensembles $A$ et $B$, noté $A \times B$, est l'ensemble des couples $(a, b)$ où $a \in A$ et $b \in B$.
 
 $A \times B = {(a, b) \mid a \in A, b \in B}$

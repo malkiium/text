@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5fcd24bec6bc583",
+        "id": "681229a7aa8b3d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "1137c7652ef2b130",
+            "id": "62c86f6d18fd58ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/CM/ensembles.md",
+                "file": "python/dictionaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ensembles"
+              "title": "dictionaries"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/CM/ensembles.md",
+                "file": "python/dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ensembles"
+              "title": "Backlinks for dictionaries"
             }
           },
           {
@@ -148,6 +148,20 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d4f68f45fc5c965d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 2
@@ -166,16 +180,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "media-extended:Open media": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "1137c7652ef2b130",
+  "active": "62c86f6d18fd58ea",
   "lastOpenFiles": [
-    "Maths/CM/relation d'un produit binaire.md",
+    "Maths/CM/ensembles.md",
+    "python/lists vs tuples.md",
+    "python/tuples.md",
+    "htmlclasses/project.md",
+    "English/story telling.md",
+    "Processing",
+    "htmlclasses/resources.md",
+    "Maths/CM/produit cartésien.md",
+    "Maths/CM/relation binaire.md",
     "Maths/CM/Suites géométrique.md",
     "English/solar panels.md",
-    "English/story telling.md",
-    "htmlclasses/project.md",
     "English/Presentation instructions.pdf",
     "English/general classes.canvas",
     "presentations.md",
@@ -183,20 +205,15 @@
     "English/presensations.md",
     "English/movies series intro.md",
     "English/final presetation.md",
-    "htmlclasses/resources.md",
-    "python/tuples.md",
     "htmlclasses/html classes.canvas",
     "python/sets.md",
     "python/python clas.canvas",
-    "python/lists vs tuples.md",
     "python/lists.md",
     "python/dictionaries.md",
-    "Maths/CM/ensembles.md",
     "Maths/meth.canvas",
     "Maths/TD",
     "Maths/TD/limites.md",
     "Maths/CM/partition d'un ensemble.md",
-    "Maths/CM/produit cartésien.md",
     "Maths/CM",
     "suites géométriques.md",
     "map/map.canvas",

@@ -1,6 +1,4 @@
-# suite géométriques
----
-
+#suite-géométrique #limite #mathématiques #exponentielle
 ## Limite des suites géométriques
 
 ### Définition d'une suite géométrique  
