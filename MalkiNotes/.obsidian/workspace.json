@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "567944a313dbcb6d",
+        "id": "299d65cabf006620",
         "type": "tabs",
         "children": [
           {
-            "id": "a84f47b6660e58a8",
+            "id": "ac4a7dd807005bb3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200
   },
   "right": {
     "id": "d6bdd7fa0bb9d789",
@@ -121,6 +121,21 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "6f34f1476048fc31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 1
@@ -145,17 +160,28 @@
   },
   "active": "132286e3675296cf",
   "lastOpenFiles": [
+    "lifeKnowledge/Warframe/Stalker lore.md",
+    "lifeKnowledge/Minecraft",
+    "lifeKnowledge/Warframe/Tenno lore.md",
+    "lifeKnowledge/Warframe/Warframe lore.md",
+    "lifeKnowledge/Warframe/Entrati lore.md",
+    "lifeKnowledge/Warframe/Grineer lore.md",
+    "lifeKnowledge/Warframe/Infested lore.md",
+    "lifeKnowledge/Warframe/Kuva lore.md",
+    "lifeKnowledge/Warframe/Orokin lore.md",
+    "lifeKnowledge/Warframe",
+    "lifeKnowledge/Minecraft/Mining Minecraft.md",
     "dailynotes/2025-03-19.md",
+    "classes/English/final presetation.md",
+    "classes/python/lists vs tuples.md",
+    "classes/python/Lists and Matrix.md",
     "classes/htmlclasses/project.md",
     "lifeKnowledge",
     "classes",
     "classes/Maths/TD/Relation binaires TD.md",
-    "classes/python/Lists and Matrix.md",
     "python.md",
     "dailynotes",
     "classes/English/Presentation instructions.pdf",
-    "classes/English/final presetation.md",
-    "classes/python/lists vs tuples.md",
     "classes/python/Tuples.md",
     "classes/Maths/CM/relation binaire.md",
     "classes/htmlclasses/resources.md",
@@ -166,27 +192,16 @@
     "classes/English/movies series intro.md",
     "Untitled.canvas",
     "classes/python/dictionaries.md",
-    "classes/Maths/CM/ensembles.md",
-    "classes/Maths/CM/produit cartésien.md",
-    "Théorie des ensembles.md",
     "Maths/Untitled.canvas",
-    "Untitled.md",
-    "classes/python/Sets.md",
-    "classes/English/presensations.md",
     "Processing",
     "English/general classes.canvas",
-    "presentations.md",
-    "story telling] [presentations.md",
     "htmlclasses/html classes.canvas",
     "python/python clas.canvas",
     "Maths/meth.canvas",
     "classes/Maths/TD",
-    "Maths/CM/partition d'un ensemble.md",
     "classes/Maths/CM",
     "map/map.canvas",
     "map",
-    "Paste image 1742335686179image.png",
-    "classes/python",
-    "classes/Maths"
+    "Paste image 1742335686179image.png"
   ]
 }

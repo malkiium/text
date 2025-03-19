@@ -25,7 +25,7 @@
       "query": "path:htmlclasses  ",
       "color": {
         "a": 1,
-        "rgb": 59898
+        "rgb": 36761
       }
     },
     {
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 9175295
       }
+    },
+    {
+      "query": "path:lifeKnowledge  ",
+      "color": {
+        "a": 1,
+        "rgb": 6867642
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 1.97916666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.3108621100003697,
+  "scale": 1.3108621100003752,
   "close": true
 }
