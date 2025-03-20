@@ -6,6 +6,9 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlignHorizontalSpaceAround",
+      "LiTouchpadOff",
+      "LiImage",
       "LiAlarmClockOff",
       "LiAlignCenterVertical",
       "LiAlbum",
@@ -86,5 +89,8 @@
   "lifeKnowledge/Warframe": "LiEraser",
   "classes/Maths/TD": "LiAlbum",
   "classes/English/final presetation.md": "LiAlarmClockOff",
-  "pdf/Presentation instructions.pdf": "LiGitPullRequestDraft"
+  "pdf/Presentation instructions.pdf": "LiGitPullRequestDraft",
+  "images": "LiImage",
+  "pdf": "LiTouchpadOff",
+  "Templates": "LiAlignHorizontalSpaceAround"
 }
