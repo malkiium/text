@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -50,10 +50,17 @@
       }
     },
     {
-      "query": "path:lifeKnowledge  ",
+      "query": "path:lifeKnowledge/Warframe  ",
       "color": {
         "a": 1,
-        "rgb": 6867642
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:lifeKnowledge/Minecraft  ",
+      "color": {
+        "a": 1,
+        "rgb": 7935
       }
     }
   ],
@@ -64,9 +71,9 @@
   "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
   "centerStrength": 0.328125,
-  "repelStrength": 6.5625,
+  "repelStrength": 7.29166666666667,
   "linkStrength": 0.578125,
   "linkDistance": 30,
-  "scale": 0.12312833289807443,
+  "scale": 0.12312833289807579,
   "close": true
 }

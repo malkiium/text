@@ -11,10 +11,14 @@
             "id": "78776ffd1cbf076f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "lifeKnowledge/Warframe/Orokin lore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orokin lore"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "lifeKnowledge/Warframe/Orokin lore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Orokin lore"
             }
           },
           {
@@ -192,18 +197,19 @@
   },
   "active": "78776ffd1cbf076f",
   "lastOpenFiles": [
-    "dailynotes/religion.md",
+    "lifeKnowledge/Warframe/Stalker lore.md",
+    "lifeKnowledge/Warframe/Warframe lore.md",
+    "lifeKnowledge/Warframe/Tenno lore.md",
+    "lifeKnowledge/Warframe/Infested lore.md",
+    "lifeKnowledge/Warframe/Entrati lore.md",
     "Templates/Fleeting Note Template.md",
+    "Fleeting Note.md",
+    "dailynotes/religion.md",
     "Templates",
     "classes/Maths/TD/Relation binaires TD.md",
     "dailynotes/2025-03-19.md",
-    "lifeKnowledge/Warframe/Stalker lore.md",
     "lifeKnowledge/Minecraft",
-    "lifeKnowledge/Warframe/Tenno lore.md",
-    "lifeKnowledge/Warframe/Warframe lore.md",
-    "lifeKnowledge/Warframe/Entrati lore.md",
     "lifeKnowledge/Warframe/Grineer lore.md",
-    "lifeKnowledge/Warframe/Infested lore.md",
     "lifeKnowledge/Warframe/Kuva lore.md",
     "lifeKnowledge/Warframe/Orokin lore.md",
     "lifeKnowledge/Warframe",
@@ -224,7 +230,6 @@
     "classes/English/story telling.md",
     "classes/Maths/TD/limites.md",
     "classes/Maths/CM/Suites géométrique.md",
-    "classes/English/movies series intro.md",
     "Untitled.canvas",
     "Maths/Untitled.canvas",
     "Processing",

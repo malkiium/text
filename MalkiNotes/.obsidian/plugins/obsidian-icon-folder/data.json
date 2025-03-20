@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmClockOff",
+      "LiAlignCenterVertical",
       "LiAlbum",
       "LiEraser",
       "LiTableRowsSplit",
@@ -83,5 +85,6 @@
   "lifeKnowledge/Minecraft/Mining Minecraft.md": "LiBlocks",
   "lifeKnowledge/Minecraft": "LiTableRowsSplit",
   "lifeKnowledge/Warframe": "LiEraser",
-  "classes/Maths/TD": "LiAlbum"
+  "classes/Maths/TD": "LiAlbum",
+  "classes/English/final presetation.md": "LiAlarmClockOff"
 }
