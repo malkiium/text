@@ -51,7 +51,6 @@
   "classes/English": "LiSquareBottomDashedScissors",
   "classes/English/movies series intro.md": "🎥",
   "classes/English/presensations.md": "LiProjector",
-  "classes/English/Presentation instructions.pdf": "LiGitPullRequestDraft",
   "classes/English/solar panels.md": "LiPanelBottomInactive",
   "classes/English/story telling.md": "LiBook",
   "classes/htmlclasses": "LiFileType",
@@ -86,5 +85,6 @@
   "lifeKnowledge/Minecraft": "LiTableRowsSplit",
   "lifeKnowledge/Warframe": "LiEraser",
   "classes/Maths/TD": "LiAlbum",
-  "classes/English/final presetation.md": "LiAlarmClockOff"
+  "classes/English/final presetation.md": "LiAlarmClockOff",
+  "pdf/Presentation instructions.pdf": "LiGitPullRequestDraft"
 }

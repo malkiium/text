@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60780882366d026e",
+        "id": "ebda04a17f1d51fe",
         "type": "tabs",
         "children": [
           {
-            "id": "78776ffd1cbf076f",
+            "id": "7e9f828a910e9e3f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,23 +190,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78776ffd1cbf076f",
+  "active": "7e9f828a910e9e3f",
   "lastOpenFiles": [
-    "lifeKnowledge/Warframe/Kuva lore.md",
-    "images/Pasted image 20250320011336.png",
+    "pdf/Presentation instructions.pdf",
+    "classes/English/final presetation.md",
+    "classes/English/movies series intro.md",
+    "lifeKnowledge/Minecraft/Mining Minecraft.md",
+    "pdf",
     "lifeKnowledge/Warframe/Entrati lore.md",
+    "lifeKnowledge/Warframe/Grineer lore.md",
+    "lifeKnowledge/Warframe/Infested lore.md",
+    "lifeKnowledge/Warframe/Kuva lore.md",
+    "lifeKnowledge/Warframe/Orokin lore.md",
+    "lifeKnowledge/Warframe/Stalker lore.md",
+    "lifeKnowledge/Warframe/Tenno lore.md",
+    "lifeKnowledge/Warframe/Warframe lore.md",
+    "images/Pasted image 20250320011336.png",
     "images/Pasted image 20250320011305.png",
     "Pasted image 20250320011039.png",
     "Pasted image 20250320011107.png",
     "images/Pasted image 20250320011124.png",
-    "lifeKnowledge/Warframe/Infested lore.md",
-    "lifeKnowledge/Warframe/Grineer lore.md",
     "images/Pasted image 20250320010917.png",
-    "lifeKnowledge/Warframe/Stalker lore.md",
     "images/Pasted image 20250320010855.png",
-    "lifeKnowledge/Warframe/Warframe lore.md",
-    "lifeKnowledge/Warframe/Tenno lore.md",
-    "lifeKnowledge/Warframe/Orokin lore.md",
     "images/Pasted image 20250320010100.png",
     "images",
     "images/Pasted image 20250320010707.png",
@@ -218,8 +224,6 @@
     "dailynotes/2025-03-19.md",
     "lifeKnowledge/Minecraft",
     "lifeKnowledge/Warframe",
-    "lifeKnowledge/Minecraft/Mining Minecraft.md",
-    "classes/English/final presetation.md",
     "classes/python/lists vs tuples.md",
     "classes/python/Lists and Matrix.md",
     "classes/htmlclasses/project.md",
@@ -227,13 +231,11 @@
     "classes",
     "python.md",
     "dailynotes",
-    "classes/English/Presentation instructions.pdf",
     "classes/python/Tuples.md",
     "classes/Maths/CM/relation binaire.md",
     "classes/htmlclasses/resources.md",
     "classes/English/solar panels.md",
     "classes/English/story telling.md",
-    "classes/Maths/TD/limites.md",
     "Untitled.canvas",
     "Maths/Untitled.canvas",
     "Processing",
@@ -241,7 +243,6 @@
     "htmlclasses/html classes.canvas",
     "python/python clas.canvas",
     "Maths/meth.canvas",
-    "classes/Maths/TD",
     "map/map.canvas"
   ]
 }
