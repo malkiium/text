@@ -6,6 +6,7 @@
 - Spread across the Origin System, corrupting and mutating everything in its path.
 - Initially created as a weapon by the Orokin, it became uncontrollable.
 - Became a primary threat to both the Orokin and the Tenno during the Old War.
+![[Pasted image 20250320011124.png]]
 
 # **Infestation Origin**
 

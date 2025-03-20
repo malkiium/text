@@ -6,7 +6,7 @@
 - Practiced genetic and mental manipulation, leading to their eventual mutations.
 - Developed technologies to communicate with the Infestation and control it.
 - Left behind a legacy of knowledge and experimentation, post-Orokin collapse.
-
+![[Pasted image 20250320011305.png]]
 # **Entrati Society**
 
 - Formed a close-knit family dynasty, ruling Deimos before the fall of the Orokin.
