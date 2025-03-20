@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c1c4f05304cf76a",
+            "id": "381ecc39375a83bd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,16 +99,6 @@
             }
           },
           {
-            "id": "132286e3675296cf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "d4f68f45fc5c965d",
             "type": "leaf",
             "state": {
@@ -168,12 +158,12 @@
               "title": "Outgoing links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +179,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c1c4f05304cf76a",
+  "active": "381ecc39375a83bd",
   "lastOpenFiles": [
+    "lifeKnowledge/OnePeice/FishMen/FishMen Society.md",
+    "lifeKnowledge/OnePeice/Giants/Giants.md",
+    "lifeKnowledge/OnePeice/FishMen/Arlong.md",
+    "lifeKnowledge/OnePeice/StrawHats/Nami.md",
+    "lifeKnowledge/OnePeice/FishMen",
+    "lifeKnowledge/OnePeice/StrawHats/Straw Hats.md",
+    "lifeKnowledge/OnePeice/Giants",
+    "lifeKnowledge/OnePeice/StrawHats/Brook.md",
+    "lifeKnowledge/OnePeice/StrawHats/Jinbe.md",
+    "lifeKnowledge/OnePeice/StrawHats",
+    "lifeKnowledge/OnePeice/StrawHats/Franky.md",
+    "lifeKnowledge/OnePeice/StrawHats/Chopper.md",
+    "lifeKnowledge/OnePeice/StrawHats/Sanji.md",
+    "lifeKnowledge/OnePeice/StrawHats/Luffy.md",
+    "lifeKnowledge/OnePeice/StrawHats/Usopp.md",
+    "lifeKnowledge/OnePeice/StrawHats/Roronoa Zoro.md",
+    "lifeKnowledge/OnePeice/StrawHats/Nico Robin.md",
+    "lifeKnowledge/Warframe/Infested lore.md",
+    "lifeKnowledge/OnePeice",
+    "lifeKnowledge/Computer/GPU.md",
     "pdf/Presentation instructions.pdf",
     "classes/English/final presetation.md",
     "classes/English/movies series intro.md",
@@ -198,7 +208,6 @@
     "pdf",
     "lifeKnowledge/Warframe/Entrati lore.md",
     "lifeKnowledge/Warframe/Grineer lore.md",
-    "lifeKnowledge/Warframe/Infested lore.md",
     "lifeKnowledge/Warframe/Kuva lore.md",
     "lifeKnowledge/Warframe/Orokin lore.md",
     "lifeKnowledge/Warframe/Stalker lore.md",
@@ -215,29 +224,11 @@
     "images",
     "images/Pasted image 20250320010707.png",
     "images/Pasted image 20250320010811.png",
-    "Templates/Fleeting Note Template.md",
-    "Fleeting Note.md",
-    "dailynotes/religion.md",
     "Templates",
-    "classes/Maths/TD/Relation binaires TD.md",
-    "dailynotes/2025-03-19.md",
     "lifeKnowledge/Minecraft",
     "lifeKnowledge/Warframe",
-    "classes/python/lists vs tuples.md",
-    "classes/python/Lists and Matrix.md",
-    "classes/htmlclasses/project.md",
-    "lifeKnowledge",
-    "classes",
-    "python.md",
-    "dailynotes",
-    "classes/python/Tuples.md",
-    "classes/Maths/CM/relation binaire.md",
-    "classes/htmlclasses/resources.md",
-    "classes/English/solar panels.md",
-    "classes/English/story telling.md",
     "Untitled.canvas",
     "Maths/Untitled.canvas",
-    "Processing",
     "English/general classes.canvas",
     "htmlclasses/html classes.canvas",
     "python/python clas.canvas",
