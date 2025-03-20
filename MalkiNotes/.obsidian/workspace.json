@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebda04a17f1d51fe",
+        "id": "fd94d5f6276c130b",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9f828a910e9e3f",
+            "id": "3c1c4f05304cf76a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e9f828a910e9e3f",
+  "active": "3c1c4f05304cf76a",
   "lastOpenFiles": [
     "pdf/Presentation instructions.pdf",
     "classes/English/final presetation.md",
