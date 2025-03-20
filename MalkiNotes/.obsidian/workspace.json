@@ -11,10 +11,14 @@
             "id": "381ecc39375a83bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "classes/TEDs/Conférence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conférence"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "classes/TEDs/Conférence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Conférence"
             }
           },
           {
@@ -180,6 +185,9 @@
   },
   "active": "381ecc39375a83bd",
   "lastOpenFiles": [
+    "lifeKnowledge/Computer/Linus Alt Gr.md",
+    "classes/TEDs/Conférence.md",
+    "classes/TEDs",
     "lifeKnowledge/OnePeice/Revolutionary/Dragon.md",
     "lifeKnowledge/OnePeice/StrawHats/Luffy.md",
     "lifeKnowledge/OnePeice/Alies/Ace.md",
@@ -213,9 +221,6 @@
     "lifeKnowledge/Warframe/Infested lore.md",
     "lifeKnowledge/OnePeice",
     "lifeKnowledge/Computer/GPU.md",
-    "pdf/Presentation instructions.pdf",
-    "classes/English/final presetation.md",
-    "classes/English/movies series intro.md",
     "images/Pasted image 20250320011336.png",
     "images/Pasted image 20250320011305.png",
     "Pasted image 20250320011039.png",
