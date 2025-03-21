@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowUpDown",
       "LiArrowDownNarrowWide",
       "LiActivity",
       "LiAlignStartHorizontal",
@@ -29,8 +30,7 @@
       "LiBone",
       "LiAlignCenter",
       "LiAmbulance",
-      "LiChefHat",
-      "LiAlignEndVertical"
+      "LiChefHat"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [],
@@ -127,5 +127,6 @@
   "lifeKnowledge/OnePeice/Revolutionary": "LiAlignStartHorizontal",
   "lifeKnowledge/OnePeice/Revolutionary/Sabo.md": "LiAnchor",
   "lifeKnowledge/OnePeice/Revolutionary/Dragon.md": "LiActivity",
-  "classes/TEDs": "LiArrowDownNarrowWide"
+  "classes/TEDs": "LiArrowDownNarrowWide",
+  "classes/PIX": "LiArrowUpDown"
 }
