@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df318d30fd09ef21",
+        "id": "81e76732543380be",
         "type": "tabs",
         "children": [
           {
-            "id": "1d85e1ec811d6f40",
+            "id": "d8301564d21b3b48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "lifeKnowledge/Warframe/Warframe lore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warframe lore"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "lifeKnowledge/Warframe/Warframe lore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Warframe lore"
             }
           },
           {
@@ -178,11 +183,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d85e1ec811d6f40",
+  "active": "d8301564d21b3b48",
   "lastOpenFiles": [
-    "lifeKnowledge/Warframe/Orokin lore.md",
-    "lifeKnowledge/Warframe/Stalker lore.md",
     "lifeKnowledge/Warframe/Tenno lore.md",
+    "lifeKnowledge/Warframe/Stalker lore.md",
+    "lifeKnowledge/Warframe/Orokin lore.md",
+    "lifeKnowledge/Warframe/Kuva lore.md",
+    "lifeKnowledge/Warframe/Grineer lore.md",
+    "lifeKnowledge/Warframe/Infested lore.md",
+    "lifeKnowledge/Warframe/Entrati lore.md",
+    "lifeKnowledge/DrivingCode/paneaux/Priorité Paneaux.md",
+    "lifeKnowledge/DrivingCode/paneaux/triangle.md",
+    "lifeKnowledge/DrivingCode/Untitled.md",
+    "lifeKnowledge/DrivingCode/paneaux",
+    "lifeKnowledge/Untitled.md",
+    "lifeKnowledge/DrivingCode",
+    "classes/TEDs/Conférence.md",
+    "classes/Maths/TD/Relation binaires TD.md",
+    "classes/PIX/Diapo EEEEE.md",
     "lifeKnowledge/Warframe/Warframe lore.md",
     "lifeKnowledge/OnePeice/StrawHats/Brook.md",
     "lifeKnowledge/OnePeice/Revolutionary/Dragon.md",
@@ -190,7 +208,6 @@
     "lifeKnowledge/OnePeice/FishMen/Arlong.md",
     "lifeKnowledge/OnePeice/Giants/Giants.md",
     "lifeKnowledge/OnePeice/Alies/Ace.md",
-    "classes/PIX/Diapo EEEEE.md",
     "classes/PIX/heart.jpeg",
     "classes/PIX/heart.jpeg.crdownload",
     "classes/PIX/holyimg.jpeg",
@@ -202,25 +219,13 @@
     "classes/PIX/slide1img.jpeg",
     "classes/PIX/slide1img.jpeg.crdownload",
     "classes/PIX/EEEEEEEEEEEEEEEEEEEE.odp",
-    "classes/TEDs/Conférence.md",
     "classes/PIX",
     "classes/Untitled.md",
     "lifeKnowledge/Computer/Linus Alt Gr.md",
     "classes/TEDs",
     "lifeKnowledge/OnePeice/StrawHats/Luffy.md",
     "lifeKnowledge/OnePeice/Revolutionary/Sabo.md",
-    "lifeKnowledge/OnePeice/Revolutionary",
     "lifeKnowledge/OnePeice/Big enemies/Black beard.md",
-    "lifeKnowledge/OnePeice/Alies",
-    "lifeKnowledge/OnePeice/emprors/White Beard.md",
-    "lifeKnowledge/OnePeice/emprors/Shanks.md",
-    "lifeKnowledge/OnePeice/emprors/Big mom.md",
-    "lifeKnowledge/OnePeice/emprors/kaido.md",
-    "lifeKnowledge/OnePeice/StrawHats/Nami.md",
-    "lifeKnowledge/OnePeice/StrawHats/Straw Hats.md",
-    "lifeKnowledge/OnePeice/StrawHats/Jinbe.md",
-    "lifeKnowledge/OnePeice/StrawHats/Franky.md",
-    "lifeKnowledge/OnePeice/StrawHats/Chopper.md",
     "images/Pasted image 20250320011336.png",
     "images/Pasted image 20250320011305.png",
     "Pasted image 20250320011039.png",

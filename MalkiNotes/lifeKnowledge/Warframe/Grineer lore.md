@@ -5,7 +5,6 @@
 - Led by a tyrannical, authoritarian government known as the Grineer Queens.
 - Waged war across the Origin System in an effort to expand their control.
 - Seek to restore their dying race by conquering planets and harvesting resources.
-![[Pasted image 20250320010917.png]]
 # **Grineer Origins**
 
 - The Grineer were once a faction of humans under the Orokin Empire, primarily used as soldiers.

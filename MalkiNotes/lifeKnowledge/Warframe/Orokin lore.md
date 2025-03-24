@@ -7,7 +7,6 @@
 - Used slaves, Dax soldiers, and advanced AI to maintain order.
 - Created Warframes, Sentients, and Kuva-based immortality.
 - Ultimately betrayed and destroyed by their own creations.
-![[Pasted image 20250320010100.png]]
 
 # Orokin Society
 

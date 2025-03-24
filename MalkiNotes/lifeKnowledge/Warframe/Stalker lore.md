@@ -6,7 +6,6 @@
 - Uses **dark Void powers** and advanced technology to track down and kill Tenno.
 - Has a deep, personal vendetta against Tenno, seeing them as traitors to their cause.
 - Seen as a shadowy figure, embodying the consequences of betrayal and revenge.
-![[Pasted image 20250320010855.png]]
 # **Stalker’s Origins**
 
 - **Stalker** was once a **Tenno** who fought alongside other Tenno against the **Orokin** and their creations during the **Old War**.

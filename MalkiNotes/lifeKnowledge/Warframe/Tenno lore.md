@@ -7,7 +7,6 @@
 - Trained as weapons to fight the Sentients in the Old War.
 - Ultimately betrayed the Orokin and were responsible for their downfall.
 - Remained dormant in the Second Dream until reawakened.
-![[Pasted image 20250320010811.png]]
 # **Tenno Society**
 
 - Originally isolated and studied by the Orokin for their Void mutations.

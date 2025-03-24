@@ -6,8 +6,6 @@
 - Fueled by the power of **the Void**, acting as a source of immense energy.
 - Central to the Grineer Empire's survival and expansion.
 - Holds powerful properties, including the ability to alter genetic structures and maintain life.
-![[Pasted image 20250320011336.png]]
-
 # **Kuva Origin**
 
 - Created by the Orokin as a byproduct of their experiments with **Void energy**.

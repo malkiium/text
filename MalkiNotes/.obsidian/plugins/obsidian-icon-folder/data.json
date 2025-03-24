@@ -6,6 +6,10 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowsUpFromLine",
+      "LiTriangle",
+      "LiPanelLeftInactive",
+      "LiCar",
       "LiArrowUpDown",
       "LiArrowDownNarrowWide",
       "LiActivity",
@@ -26,11 +30,7 @@
       "LiArrowUpCircle",
       "LiArrowBigUpDash",
       "LiArrowRightSquare",
-      "LiFish",
-      "LiBone",
-      "LiAlignCenter",
-      "LiAmbulance",
-      "LiChefHat"
+      "LiFish"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [],
@@ -94,7 +94,6 @@
   "classes/Maths/TD": "LiAlbum",
   "classes/English/final presetation.md": "LiAlarmClockOff",
   "pdf/Presentation instructions.pdf": "LiGitPullRequestDraft",
-  "images": "LiImage",
   "pdf": "LiTouchpadOff",
   "Templates": "LiAlignHorizontalSpaceAround",
   "lifeKnowledge/Computer": "LiAxe",
@@ -128,5 +127,8 @@
   "lifeKnowledge/OnePeice/Revolutionary/Sabo.md": "LiAnchor",
   "lifeKnowledge/OnePeice/Revolutionary/Dragon.md": "LiActivity",
   "classes/TEDs": "LiArrowDownNarrowWide",
-  "classes/PIX": "LiArrowUpDown"
+  "classes/PIX": "LiArrowUpDown",
+  "lifeKnowledge/DrivingCode": "LiCar",
+  "lifeKnowledge/DrivingCode/paneaux": "LiPanelLeftInactive",
+  "lifeKnowledge/DrivingCode/paneaux/Priorité Paneaux.md": "LiArrowsUpFromLine"
 }

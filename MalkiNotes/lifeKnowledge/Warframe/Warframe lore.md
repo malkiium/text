@@ -4,7 +4,6 @@
 - **Warframes** are biomechanical exoskeletons that grant their users immense power and abilities, allowing them to wield the Void energy.
 - They are the weapons of the **Tenno**, the main protagonists of the game, and are used to protect the **Origin System** from various threats such as the **Grineer**, **Corpus**, **Infestation**, and other factions.
 - Each Warframe is tied to the **Void** and has unique powers based on their design, history, and the forces that created them.
- ![[Pasted image 20250320010707.png]]
 
 # **Creation of Warframes**
 
